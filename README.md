@@ -1,6 +1,6 @@
 # React-TMDB
-TMDB implementation with React
-TMDB implementation with React - VCS
+TMDB implementation with React <br>
+TMDB implementation with React - VCS <br>
 First time to create an informative README for smooth launch process
 
 ## Introduction
