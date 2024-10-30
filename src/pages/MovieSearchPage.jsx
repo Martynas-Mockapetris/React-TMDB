@@ -19,7 +19,7 @@ function MovieSearch({ movies, favorites, toggleFavorite, searchTerm, handleSear
 
   return (
     <div>
-      <h1>Populeriausių Filmų Paieška</h1>
+      <h1>Populiariausių Filmų Paieška</h1>
       {/* Paduodu info search komponentui */}
       <Search searchTerm={searchTerm} handleSearch={handleSearch} genres={genres} handleGenreSelect={handleGenreSelect} />
       <h1>{selectedGenreName}</h1>
